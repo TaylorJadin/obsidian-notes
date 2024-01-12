@@ -32,7 +32,7 @@ make a public folder and initialize a git repo in there
 
 https://github.com/taylorjadin/obsidian-notes
 
-Obisdian Vault `public` folder --> [Github repo](https://github.com/TaylorJadin/obsidian-notes
+Obisdian Vault `public` folder --> [Github repo](https://github.com/TaylorJadin/obsidian-notes)
 
 Use the shell commands community plugin for quick syncing
 ![](public_files/Capture%202024-01-12%2008.54.08@2x.png)
