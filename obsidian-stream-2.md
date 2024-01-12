@@ -43,7 +43,7 @@ Use the shell commands community plugin for quick syncing
 
 ![](public_files/Capture%202024-01-12%2008.49.10@2x.png)
 
-I set up a redirect so I can share nice clean looking URLs with the note title. Like this note should be at https://notes.jadin.me/obsidian-stream-2 because the titel of the note is obsidian-stream-2 
+I set up a redirect so I can share nice clean looking URLs with the note title. For instance, this note should be at https://notes.jadin.me/obsidian-stream-2 because the title of the note is obsidian-stream-2 
 
-the pattern looks like this:
+the pattern is like this:
 https://notes.jadin.me/NOTENAME --> https://docsify.jadin.me/?basePath=https://raw.githubusercontent.com/TaylorJadin/obsidian-notes/main&homepage=NOTENAME.md#/
