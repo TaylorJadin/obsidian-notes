@@ -9,7 +9,23 @@
 
 ## Plugins
 Taylor's Plugins:
-- 
+- obsidian-languagetool-plugin
+- copy-url-in-preview
+- obsidian-readability
+- dataview
+- tag-wrangler
+- calendar
+- obsidian-table-generator
+- table-editor-obsidian
+- obsidian-auto-link-title
+- janitor
+- url-into-selection
+- link-tree
+- markdown-table-editor
+- obsidian-style-settings
+- copilot
+- obsidian-shellcommands
+- obsidian-advanced-slides
 
 ## Taylor's weirdo public notes system:
 
