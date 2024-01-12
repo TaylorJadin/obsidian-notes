@@ -8,7 +8,7 @@
 	- honestly pretty good, way better than it was a few years ago
 
 ## Plugins
-Taylor's Plugins:
+Taylor's Community Plugins:
 - obsidian-languagetool-plugin
 - copy-url-in-preview
 - obsidian-readability
@@ -25,7 +25,6 @@ Taylor's Plugins:
 - obsidian-style-settings
 - copilot
 - obsidian-shellcommands
-- obsidian-advanced-slides
 
 ## Taylor's weirdo public notes system:
 
