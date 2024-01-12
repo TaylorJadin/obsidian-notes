@@ -1,5 +1,7 @@
 # Obisidan Stream Part 2
 
+follow up from [obsidian and obsidian share](obsidian%20and%20obsidian%20share.md)
+
 ## Themes
 (install from the appearance section of settings):
 - [Minimal](https://github.com/kepano/obsidian-minimal)
