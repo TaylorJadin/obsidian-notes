@@ -9,3 +9,4 @@ Plugins?
 
 Obisdian Vault `public` folder --> [Github repo](https://github.com/TaylorJadin/obsidian-notes)
 notes.jadin.me/NOTENAME --> docsify.jadin.me/LONGURL
+Shell commands community plugin
